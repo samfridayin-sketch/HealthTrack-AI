@@ -18,20 +18,11 @@ AI powered chatbot for weight loss tracking and personalized nutrition guidance.
 
 ## Getting Started
 
-1. Clone the repo
+1. Clone the repo:
+   git clone https://github.com/samfridayin-sketch/HealthTrack-AI.git
 
-\```
-git clone https://github.com/samfridayin-sketch/HealthTrack-AI.git
-\```
+2. Set up environment:
+   cp .env.example .env
 
-2. Set up environment
-
-\```
-cp .env.example .env
-\```
-
-3. Run with Docker
-
-\```
-docker-compose up
-\```
+3. Run with Docker:
+   docker-compose up
